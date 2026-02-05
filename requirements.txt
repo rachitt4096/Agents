@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+groq
+httpx
+aiohttp
+tenacity
+websockets
+loguru
+pandas
+pyyaml
+python-multipart
+pytest
+pytest-asyncio
+
+# chromadb==0.4.22
+# sentence-transformers==2.3.1
